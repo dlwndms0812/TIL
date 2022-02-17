@@ -452,3 +452,30 @@ public class LoginUserArgumentResolver implements HandlerMethodArgumentResolver{
 - resloveArgument()
 1. 파라미터에 전달할 객체를 생성
 2. 여기서는 세션에서 객체를 가져옴
+
+
+### 5.5 세션 저장소로 데이터베이스 사용하기
+
+1) 톰캣 세션을 사용하기
+
+- 일반적으로 별다른 설정을 하지 않을때 기본적으로 선택되는 방식
+- 톰캣(WAS)에 세션이 저장되기 때문에 2대 이상의 WAS가 구동되는 환경에서는 톰캣들 간의 세션 공유를 위한 추가 설정 필요
+
+2) MySQL과 같은 데이터베이스를 세션 저장소로 사용
+
+- 여러 WAS 간의  공용 세션을 사용할 수 있는 가장 쉬운 방법
+- 많은 설정이 필요 없지만, 로그인 요청마다 DB IO가 발생하여 성능상 이슈가 발생할 수 있음
+- 보통 로그인 요청이 많이 없는 백오피스, 사내 시스템 용도에서 사용
+
+3) Redis, Memcached와 같은 메모리 DB를 세션 저장소로 사용
+
+- B2C 서비스에서 가장 많이 사용하는 방식
+- 실제 서비스로 사용하기 위해서는 Embedded Redis와 같은 방식이 아닌 외부 메모리 서버가 필요
+
+### 5.6 네이버 로그인
+
+application-oauth.properties
+
+- user_name_attribute=response
+1. 기준이 되는 user_name의 이름을 네이버에서는 response로 해야함
+2. 네이버의 회원 조회 시 반환되는 JSON 형태 때문
