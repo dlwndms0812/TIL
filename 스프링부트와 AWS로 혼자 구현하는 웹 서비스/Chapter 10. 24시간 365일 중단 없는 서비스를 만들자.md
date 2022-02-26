@@ -197,3 +197,84 @@ home/ec2-user/app/application-oauth.properties,/home/ec2-user/app/application-re
 1. 기본적인 스크립트는 step2의 deploy.sh와 유사
 2. 다른점은 IDLE_PROFILE을 통해 properties 파일을 가져오고, active profile을 지정하는 것
 3. 여기서도 IDLE_PROFILE을 사용하니 profile.sh를 가져와야함
+
+health.sh
+
+```bash
+#!/usr/bin/env bash
+
+ABSPATH=$(readlink -f $0)
+ABSDIR-$(dirname $ABSPATH)
+source ${ABSDIR}/profile.sh
+source ${ABSDIR}/switch.sh
+
+IDLE_PORT=$(find_idle_port)
+
+echo "> Health Checek Start!"
+echo "> IDLE_PORT: $IDLE_PORT"
+echo "> curl -s http://localhost:$IDLE_PORT/profile"
+sleep 10
+
+for RETRY_COUNT in {1..10}
+do
+  RESPONSE=$(curl -s http://localhost:${IDEL_PORT}/profile)
+  UP_COUNT=$(echo ${RESPONSE} | grep 'real' | wc -1)
+ 
+  if [ ${UP_COUNT} -ge 1]
+  then # $up_count >=1 ("real" 문자열이 있는지 검증)
+    echo "> Health check 성공"
+    switch_proxy
+    break
+  else
+    echo "> Health check의 응답을 알 수 없거나 혹은 실행 상태가 아닙니다."
+    echo "> Health check: ${RESPONSE}"
+  fi
+
+  if [${RETRY_COUNT} -eq 10]
+  then
+    echo "> Health check 실패."
+    echo "> 엔진엑스에 연결하지 않고 배포를 종료합니다."
+    exit 1
+  fi
+  echo "> Health check 연결 실패. 재시도..."
+  sleep 10
+done
+```
+
+1. 엔진엑스와 연결되지 않은 포트로 스프링 부트가 잘 수행되었는지 체크
+2. 잘 떴는지 확인 되어야 엔진엑스 프록세 설정을 변경함
+3. 엔진엑스 프록시 설정 변경은 switch.sh에서 수행
+
+switch.sh
+
+```bash
+#!/usr/bin/env bash
+
+ABSPATH=$(readlink -f $0)
+ABSDIR=$(dirname $ABSPATH)
+source ${ABSDIR}/profile.sh
+
+function switch_proxy(){
+  IDLE_PORT=$(find_idle_port)
+ 
+  echo "> 전환할 Port: $IDLE_PORT"
+  echo "> Port 전환"  
+  echo "set \$service_url http://127.0.0.1:${IDLE_PORT}; | sudo tee /ect/nginx/conf.d/service-url.inc
+  echo "> 엔진엑스 Reload"
+  sudo service nginx reload
+}
+```
+
+- echo “set \$service_url http://127.0.0.1:${IDLE_PORT};
+1. 하나의 문장을 만들어 파이프라인으로 넘겨주기 위해 echo 사용
+2. 엔진엑스가 변경할 프록시 주소를 생성
+3. 쌍따옴표를 사용
+4. 사용하지 않으면 $service_url을 그대로 인식하지 못하고 변수를 찾게됨
+
+> sudo tee /etc/nginx/conf.d/service-url.inc
+> 
+1. 엔진엑스 설정을 다시 불러옴
+2. restart와는 다름
+3. restart는 잠시 끊기는 현상이 있지만 reload는 끊김 없이 다시 불러옴
+4. 다만, 중요한 설정들은 반영되지 않으므로 restart를 사용
+5. 여기선 외부의 설정 파일인 service-url을 다시 불러오는거라 reload로 가능함
