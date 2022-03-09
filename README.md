@@ -35,6 +35,8 @@
 
 - [Part 2 코드](https://github.com/dlwndms0812/guestbook)
 
+**이것이 취업을 위한 코딩테스트다**
+
 ### 정보처리기사(실기)
 
 
