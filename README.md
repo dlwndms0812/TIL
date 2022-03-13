@@ -53,6 +53,7 @@
 
 **UMC 2기**
 
+- [1주차](https://github.com/dlwndms0812/TIL/blob/main/UMC(Spring%20Boot)/1%EC%A3%BC%EC%B0%A8.md)
 
 ### 정보처리기사(실기)
 
