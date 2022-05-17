@@ -57,6 +57,13 @@
 
 - [1주차 스터디](https://github.com/dlwndms0812/TIL/blob/main/UMC(Spring%20Boot)/1%EC%A3%BC%EC%B0%A8.md)
 
+
+### 42SEOUL
+
+(보안 유지 각서로 인해 비공개)
+- [la piscine](https://github.com/dlwndms0812/42seoul_piscine)
+
+
 ### 정보처리기사(실기)
 
 
