@@ -3,9 +3,7 @@
 #### 오늘 배운것들을 조금이나마 매일매일 정리하기
 
 
-### 코딩테스트
-
-(코딩테스트 코드는 다른곳에 저장하고 있습니다.)
+### 코딩테스트(코드)
 
 - [백준](https://github.com/dlwndms0812/Study_Algorithm/tree/main/%EB%B0%B1%EC%A4%80)
 - [프로그래머스](https://github.com/dlwndms0812/Study_Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
@@ -14,10 +12,14 @@
 
 ### 알고리즘 스터디
 
+---
+
 ### 백엔드 로드맵
 
 - [인터넷](https://github.com/dlwndms0812/TIL/blob/main/%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%A1%9C%EB%93%9C%EB%A7%B5/%EC%9D%B8%ED%84%B0%EB%84%B7.md)
 - [기본적인 프론트엔드 지식](https://github.com/dlwndms0812/TIL/blob/main/%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%A1%9C%EB%93%9C%EB%A7%B5/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EC%A7%80%EC%8B%9D.md)
+
+---
 
 ### 도서
 
@@ -50,6 +52,7 @@
 - [Chapter 09. 최단 경로](https://github.com/dlwndms0812/TIL/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Chapter%2009.%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.md)
 - [Chapter 10. 그래프 이론](https://github.com/dlwndms0812/TIL/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Chapter%2010.%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0.md)
 
+---
 
 ### 동아리
 
@@ -58,14 +61,19 @@
 - [1주차 스터디](https://github.com/dlwndms0812/TIL/blob/main/UMC(Spring%20Boot)/1%EC%A3%BC%EC%B0%A8.md)
 
 
+---
+
 ### 42SEOUL
 
 (보안 유지 각서로 인해 비공개)
 - [la piscine](https://github.com/dlwndms0812/42seoul_piscine)
 
+---
 
-### 정보처리기사(실기)
+### 자격증
 
+**SQLD**
+ - [SQLD](https://github.com/dlwndms0812/TIL/tree/main/SQLD_%EC%A0%95%EB%A6%AC)
 
 
 
