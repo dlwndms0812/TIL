@@ -73,7 +73,11 @@
 ### 자격증
 
 **SQLD**
- - [SQLD](https://github.com/dlwndms0812/TIL/tree/main/SQLD_%EC%A0%95%EB%A6%AC)
+1. 데이터모델링의 이해
+ - [데이터모델링의 이해](https://github.com/dlwndms0812/TIL/blob/main/SQLD_%EC%A0%95%EB%A6%AC/1.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%EC%9D%B4%ED%95%B4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%EC%9D%B4%ED%95%B4.md)
+ - [데이터모델과 성능](https://github.com/dlwndms0812/TIL/blob/main/SQLD_%EC%A0%95%EB%A6%AC/1.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%EC%9D%B4%ED%95%B4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%EA%B3%BC%EC%84%B1%EB%8A%A5.md)
+2. SQL 기본 및 활용
+ - [SQL 기본](https://github.com/dlwndms0812/TIL/blob/main/SQLD_%EC%A0%95%EB%A6%AC/2.SQL%EA%B8%B0%EB%B3%B8%EB%B0%8F%ED%99%9C%EC%9A%A9/SQL%EA%B8%B0%EB%B3%B8.md)
 
 
 
