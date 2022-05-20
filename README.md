@@ -12,6 +12,7 @@
 
 ### 알고리즘 스터디
 
+- [0X03 배열](https://github.com/dlwndms0812/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%8A%A4%ED%84%B0%EB%94%94/0x03_%EB%B0%B0%EC%97%B4.md)
 ---
 
 ### 백엔드 로드맵
