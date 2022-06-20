@@ -81,4 +81,4 @@
  - [SQL 기본](https://github.com/dlwndms0812/TIL/blob/main/SQLD_%EC%A0%95%EB%A6%AC/2.SQL%EA%B8%B0%EB%B3%B8%EB%B0%8F%ED%99%9C%EC%9A%A9/SQL%EA%B8%B0%EB%B3%B8.md)
 
 
-
+**정보처리기사 실기**
