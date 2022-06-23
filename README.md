@@ -83,3 +83,6 @@
 
 
 **정보처리기사 실기**
+
+- [1.요구사항확인](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/1.%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%ED%99%95%EC%9D%B8.md)
+- [2.화면설계](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/2.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84.md)
