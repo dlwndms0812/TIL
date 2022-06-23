@@ -59,8 +59,9 @@
 
 **UMC 2기**
 
-- [1주차](https://dev-juelee.tistory.com/2)
+- [1주차: 서버개요](https://dev-juelee.tistory.com/2)
 - [1주차 스터디](https://github.com/dlwndms0812/TIL/blob/main/UMC(Spring%20Boot)/1%EC%A3%BC%EC%B0%A8.md)
+- [2주차: 포트포워딩 & AWS](https://dev-juelee.tistory.com/3#3.%20%EC%9B%8C%ED%81%AC%EB%B6%81%20%EB%B0%8F%20%EC%B6%94%EA%B0%80%20%EA%B0%9C%EB%85%90)
 
 
 ---
