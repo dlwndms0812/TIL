@@ -85,7 +85,8 @@
 
 **정보처리기사 실기**
 
-- [1. 요구사항확인](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/1.%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%ED%99%95%EC%9D%B8.md)
-- [2. 화면설계](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/2.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84.md)
-- [3. 데이터 입출력 구현](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B5%AC%ED%98%84.md)
-- [4. 통합 구현](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/4.%ED%86%B5%ED%95%A9%EA%B5%AC%ED%98%84.md)
+- [1. 요구사항확인](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/1.%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%ED%99%95%EC%9D%B8.md)
+- [2. 화면설계](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/2.%20%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84.md)
+- [3. 데이터 입출력 구현](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EA%B5%AC%ED%98%84.md)
+- [4. 통합 구현](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/4.%20%ED%86%B5%ED%95%A9%20%EA%B5%AC%ED%98%84.md)
+- [5. 인터페이스 구현](https://github.com/dlwndms0812/TIL/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0/5.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%ED%98%84.md)
