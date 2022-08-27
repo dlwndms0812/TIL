@@ -73,6 +73,10 @@
 (보안 유지 각서로 인해 비공개)
 - [la piscine](https://github.com/dlwndms0812/42seoul_piscine)
 
+|  | subject 명 | 설명 | bonus 여부 |
+| --- | --- | --- | --- |
+| 0서클 | [libft](https://github.com/dlwndms0812/42seoul_libft) | 나만의 라이브러리 만들기 |  O |
+|  |  |  |  |
 ---
 
 ### 자격증
