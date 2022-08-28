@@ -64,7 +64,7 @@
 - [2주차: 포트포워딩 & AWS](https://dev-juelee.tistory.com/3#3.%20%EC%9B%8C%ED%81%AC%EB%B6%81%20%EB%B0%8F%20%EC%B6%94%EA%B0%80%20%EA%B0%9C%EB%85%90)
 - [3주차 : 리눅스 환경 구축](https://dev-juelee.tistory.com/4)
 - [4주차 : 데이터베이스 이론 및 설계](https://dev-juelee.tistory.com/5)
-
+- [5주차 : 데이터베이스 실전](https://dev-juelee.tistory.com/m/11)
 
 ---
 
