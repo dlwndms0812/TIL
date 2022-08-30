@@ -65,6 +65,7 @@
 - [3주차 : 리눅스 환경 구축](https://dev-juelee.tistory.com/4)
 - [4주차 : 데이터베이스 이론 및 설계](https://dev-juelee.tistory.com/5)
 - [5주차 : 데이터베이스 실전](https://dev-juelee.tistory.com/m/11)
+- [6주차 : Restful API와 프레임워크](https://dev-juelee.tistory.com/m/12)
 
 ---
 
