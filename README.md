@@ -79,10 +79,11 @@
 (보안 유지 각서로 인해 비공개)
 - [la piscine](https://github.com/dlwndms0812/42seoul_piscine)
 
-|  | subject 명 | 설명 | bonus 여부 |
-| --- | --- | --- | --- |
-| 0서클 | [libft](https://github.com/dlwndms0812/42seoul_libft) | 나만의 라이브러리 만들기 | O |
-| 1서클 | [ft_printf](https://github.com/dlwndms0812/42seoul_ft_printf) | printf 구현하기 | X |
+|  | subject 명 | 설명 | bonus 여부 | 내용 정리 |
+| --- | --- | --- | --- | --- |
+| 0서클 | libft | 나만의 라이브러리 만들기 |  O | [링크](https://dev-juelee.tistory.com/6?category=1071017) |
+| 1서클 | ft_printf | printf 구현하기 |  X |  |
+|  |  |  |  |  |
 
 ---
 
