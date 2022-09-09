@@ -82,7 +82,7 @@
 |  | subject 명 | 설명 | bonus 여부 | 내용 정리 |
 | --- | --- | --- | --- | --- |
 | 0서클 | libft | 나만의 라이브러리 만들기 |  O | [링크](https://dev-juelee.tistory.com/6?category=1071017) |
-| 1서클 | ft_printf | printf 구현하기 |  X |  |
+| 1서클 | ft_printf | printf 구현하기 |  X | [링크](https://dev-juelee.tistory.com/10)  |
 |  |  |  |  |  |
 
 ---
