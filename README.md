@@ -83,6 +83,7 @@
 | --- | --- | --- | --- | --- |
 | 0서클 | libft | 나만의 라이브러리 만들기 |  O | [링크](https://dev-juelee.tistory.com/6?category=1071017) |
 | 1서클 | ft_printf | printf 구현하기 |  X | [링크](https://dev-juelee.tistory.com/10)  |
+| 1서클 | get_next_line | \n을 기준으로 한 줄씩 읽어서 반환하기 |  X | [링크](https://dev-juelee.tistory.com/19) |
 |  |  |  |  |  |
 
 ---
