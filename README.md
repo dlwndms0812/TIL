@@ -71,6 +71,7 @@
 - [4주차 : 데이터베이스 이론 및 설계](https://dev-juelee.tistory.com/5)
 - [5주차 : 데이터베이스 실전](https://dev-juelee.tistory.com/11)
 - [6주차 : Restful API와 프레임워크](https://dev-juelee.tistory.com/12)
+- [7주차 : 프레임워크 사용하기](https://dev-juelee.tistory.com/15?category=1071019)
 
 ---
 
