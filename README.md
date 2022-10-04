@@ -72,6 +72,7 @@
 - [5주차 : 데이터베이스 실전](https://dev-juelee.tistory.com/11)
 - [6주차 : Restful API와 프레임워크](https://dev-juelee.tistory.com/12)
 - [7주차 : 프레임워크 사용하기](https://dev-juelee.tistory.com/15?category=1071019)
+- [8주차 : API 개발 실전1](https://dev-juelee.tistory.com/20)
 
 ---
 
