@@ -59,7 +59,7 @@
 - [Chapter 10. 그래프 이론](https://github.com/dlwndms0812/TIL/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Chapter%2010.%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0.md)
 
 ** 자바 ORM 표준 JPA 프로그래밍 **
-- [1. JPA 소개](https://github.com/dlwndms0812/TIL/blob/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.JPA%20%EC%86%8C%EA%B0%9C.md)
+- [1. JPA 소개](https://github.com/dlwndms0812/TIL/blob/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.%20JPA%20%EC%86%8C%EA%B0%9C.md)
 
 ---
 
