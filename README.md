@@ -58,8 +58,10 @@
 - [Chapter 09. 최단 경로](https://github.com/dlwndms0812/TIL/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Chapter%2009.%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.md)
 - [Chapter 10. 그래프 이론](https://github.com/dlwndms0812/TIL/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Chapter%2010.%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0.md)
 
-** 자바 ORM 표준 JPA 프로그래밍 **
+**자바 ORM 표준 JPA 프로그래밍**
 - [1. JPA 소개](https://github.com/dlwndms0812/TIL/blob/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.%20JPA%20%EC%86%8C%EA%B0%9C.md)
+
+**Java의 정석**
 
 ---
 
@@ -86,11 +88,14 @@
 
 |  | subject 명 | 설명 | bonus 여부 | 내용 정리 |
 | --- | --- | --- | --- | --- |
-| 0서클 | libft | 나만의 라이브러리 만들기 |  O | [링크](https://dev-juelee.tistory.com/6?category=1071017) |
-| 1서클 | ft_printf | printf 구현하기 |  X | [링크](https://dev-juelee.tistory.com/10)  |
-| 1서클 | get_next_line | \n을 기준으로 한 줄씩 읽어서 반환하기 |  X | [링크](https://dev-juelee.tistory.com/19) |
+| 0서클 | libft | 나만의 라이브러리 만들기 | O | [링크](https://dev-juelee.tistory.com/6?category=1071017) |
+| 1서클 | ft_printf | printf 구현하기 | X | [링크](https://dev-juelee.tistory.com/10)  |
+| 1서클 | get_next_line | \n을 기준으로 한 줄씩 읽어서 반환하기 | X | [링크](https://dev-juelee.tistory.com/19) |
 | 1서클 | born2beroot | 가상머신 구축하기 |  △ | [링크](https://dev-juelee.tistory.com/14?category=1071017) |
-| 2서클 | so_long | 간단한 2D 게임 만들기 | X | |
+| 2서클 | so_long | 간단한 2D 게임 만들기 | X | [링크](https://dev-juelee.tistory.com/23) |
+| 2서클 | minitalk | 프로세스 간 통신하기 | △ | [링크](https://dev-juelee.tistory.com/39) | 
+| 2서클 | push swap | 최대한 적은 명렬어로 정렬하기 | X | [링크](https://dev-juelee.tistory.com/78) |
+| 3서클 | minishell | 간단한 쉘 만들기 | X | [링크](https://dev-juelee.tistory.com/97) | 
 |  |  |  |  |  |
 
 ---
